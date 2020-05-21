@@ -1,0 +1,11 @@
+{
+    "name": "sunbreak/theme-experiments",
+    "type": "wordpress-theme",
+    "authors": [
+        {
+            "name": "Sunbreak",
+            "email": "sunbreak@Sunbreak.local"
+        }
+    ],
+    "require": {}
+}
